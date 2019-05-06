@@ -1,0 +1,11 @@
+/Users/danielleao/Workspace/dotnet/Elevador/bin/Debug/netcoreapp2.1/Elevador.deps.json
+/Users/danielleao/Workspace/dotnet/Elevador/bin/Debug/netcoreapp2.1/Elevador.runtimeconfig.json
+/Users/danielleao/Workspace/dotnet/Elevador/bin/Debug/netcoreapp2.1/Elevador.runtimeconfig.dev.json
+/Users/danielleao/Workspace/dotnet/Elevador/bin/Debug/netcoreapp2.1/Elevador.dll
+/Users/danielleao/Workspace/dotnet/Elevador/bin/Debug/netcoreapp2.1/Elevador.pdb
+/Users/danielleao/Workspace/dotnet/Elevador/obj/Debug/netcoreapp2.1/Elevador.csprojAssemblyReference.cache
+/Users/danielleao/Workspace/dotnet/Elevador/obj/Debug/netcoreapp2.1/Elevador.csproj.CoreCompileInputs.cache
+/Users/danielleao/Workspace/dotnet/Elevador/obj/Debug/netcoreapp2.1/Elevador.AssemblyInfoInputs.cache
+/Users/danielleao/Workspace/dotnet/Elevador/obj/Debug/netcoreapp2.1/Elevador.AssemblyInfo.cs
+/Users/danielleao/Workspace/dotnet/Elevador/obj/Debug/netcoreapp2.1/Elevador.dll
+/Users/danielleao/Workspace/dotnet/Elevador/obj/Debug/netcoreapp2.1/Elevador.pdb
